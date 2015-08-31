@@ -11,8 +11,8 @@ define(["exports"], function(exports){
 		return {};
 	}
 	
-	exports["map-new#0"] = mapNew;
-	exports["map-transform#3"] = mapTransform;
+	exports["new#0"] = mapNew;
+	exports["transform#3"] = mapTransform;
 	
 	return exports;
 	
