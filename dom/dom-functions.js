@@ -92,7 +92,7 @@ define(["exports"], function(exports){
 	}
 	
 	
-	exports["element#2"] = create;
+	exports["element#2"] = element;
 	exports["attribute#2"] = attribute;
 	exports["place#2"] = place;
 	exports["by-id#1"] = byId;
